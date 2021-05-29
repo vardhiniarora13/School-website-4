@@ -1,0 +1,33 @@
+.movie-head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie-head i{
+    float: right;
+    
+}
+.movie_text span{
+    color: yellow;
+}
+.book{
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.modal-body{
+    text-align: center;
+}
+.img-modal{
+    display: inline-block;
+}
+.p-modal{
+    margin-top: 10px;
+}
